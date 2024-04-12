@@ -1,5 +1,9 @@
-### Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=wangchangdog)](https://github.com/ryo-ma/github-profile-trophy)
 
+<div style="textalign: center;">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangchangdog&theme=synthwave" />
+  <img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=wangchangdog&theme=synthwave" />
+</div>
 <!--
 **wangchangdog/wangchangdog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
