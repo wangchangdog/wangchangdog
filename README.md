@@ -1,4 +1,5 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=wangchangdog)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=wangchangdog&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div style="textalign: center;">
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangchangdog&theme=synthwave" />
