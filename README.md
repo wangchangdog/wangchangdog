@@ -6,6 +6,14 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=wangchangdog&theme=onedark&column=5
 )](https://github.com/ryo-ma/github-profile-trophy)
 
+|Socials|URL|
+|---|---|
+| Wantedly | <a href="https://www.wantedly.com/id/wang_chang_dog" target="_blank" rel="noopener noreferrer">Kent Azuma</a> |
+| GitHub | <a href="https://github.com/wangchangdog" target="_blank" rel="noopener noreferrer">wangchangdog</a> |
+| Webサイト | <a href="https://wangchang.dog" target="_blank" rel="noopener noreferrer">https://wangchang.dog</a> |
+| Qiita.com | <a href="https://qiita.com/wang_chang" target="_blank" rel="noopener noreferrer">@wang_chang</a> |
+| Zenn.dev | <a href="https://zenn.dev/wcd" target="_blank" rel="noopener noreferrer">@wcd</a> |
+
 # Wangchangdogとは誰ですか？
 
 私は大阪を拠点に活動しているソフトウェアエンジニアです。<br>
