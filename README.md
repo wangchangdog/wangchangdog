@@ -26,7 +26,7 @@
 I am Kent Azuma, a software engineer based in Osaka,Japan.<br>
 I am currently working at [80 & Company](https://80and.co/),  a Japanese startup <br>
 provides a platform for the NFT and other software development as a web frontend tech-lead developer.<br>
-and I am also a part-time technical teacher at [KYOTO DESIGN and TECHNOLOGY COLLEGE](https://kyoto-tech.ac.jp/).<br>
+and I am also a part-time technical teacher at [Kyoto College of Design and Technology](https://kyoto-tech.ac.jp/).<br>
 
 <!--
 **wangchangdog/wangchangdog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
