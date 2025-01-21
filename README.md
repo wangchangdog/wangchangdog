@@ -17,16 +17,16 @@
 # Wangchangdogとは誰ですか？
 
 私は大阪を拠点に活動しているソフトウェアエンジニアです。<br>
-現在は [80 & Company](https://80and.co/) という京都のスタートアップでNFTプラットフォーム開発や新規事業プロダクトのフロントエンドアプリケーション開発のリードエンジニア/テックリード/エンジニアリングマネジメントなどをしています。 <br>
+現在は [さくらインターネット](https://www.sakura.ad.jp/) でクラウドプラットフォーム開発をメインに活動しています。<br>
 また、[京都デザイン&テクノロジー専門学校](https://kyoto-tech.ac.jp/)の非常勤講師として、<br>
 学生に対し技術だけでなく、ものづくりの楽しさや問題解決能力の向上のための支援をしています。<br>
 
 # Who am I?
 
 I am Kent Azuma, a software engineer based in Osaka,Japan.<br>
-I am currently working at [80 & Company](https://80and.co/),  a Japanese startup <br>
-provides a platform for the NFT and other software development as a web frontend tech-lead developer.<br>
+I am currently working at [SAKURA internet inc.](https://www.sakura.ad.jp/), a Japanese cloud platform company.<br>
 and I am also a part-time technical teacher at [Kyoto College of Design and Technology](https://kyoto-tech.ac.jp/).<br>
+I support students not only in technology but also in the fun of creating things and improving problem-solving skills.<br>
 
 <!--
 **wangchangdog/wangchangdog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
